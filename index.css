@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ddd;
+    color: #333;
+    line-height: 1.6;
+}
+
+aside {
+    background-color: #FFDAB9;
+    color: #333;
+}
+
+aside img {
+    border: 3px solid #ddd;
+}
+
+img.rounded-circle {
+    object-fit: cover;        
+    border: 2px solid #ddd;   
+    padding: 2px;
+    border-radius: 50%;       
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+hr {
+    border-top: 2px solid #cc7109;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.fa-check {
+    margin-right: 10px;
+    color: #28a745;
+}
